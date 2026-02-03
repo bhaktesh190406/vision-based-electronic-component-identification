@@ -1,0 +1,6 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 61
+names: ['1-5-Volt-Battery', '3-3-Volt-Battery', '7-Segment-Display', '9-Volt-Battery', 'Arduino-Mega', 'Arduino-Nano', 'Arduino-Uno', 'BJT-Transistor', 'Bluetooth-Module', 'Breadboard', 'Bridge-Rectifier', 'Buck-Converter', 'Buzzer', 'Capacitor-10mf', 'Capacitor-470mf', 'DC-Motor', 'Diode', 'ESP32', 'ESP32-CAM', 'FT-232-USB-Serial-Module', 'Film-Capacitor', 'Fuse', 'Fuse-Base', 'GSM-Module', 'Gas-Sensor', 'Heat-Sink', 'High-Voltage-Ceramic-Capacitor', 'Humidity-Sensor', 'IC-Base-14-Pin', 'IC-Base-28-Pin', 'IC-Chip', 'IGBT', 'IR-Sensor', 'Inductor', 'Keypad', 'LCD-Display', 'LDR-Sensor', 'LED-Light', 'Low-Voltage-Ceramic-Capacitor', 'MLC-Capacitor', 'MOSFET', 'Motion-Sensor', 'Motor-Driver', 'NTC-Thermistor', 'OLED-Display', 'Pin-Header', 'Push-Switch', 'RFID-Scanner', 'Raindrops-Module', 'Relay-Module', 'Resistor', 'Rocker-Switch', 'Servo-Motor', 'Soil-Moisture-Sensor', 'Sonar-Sensor', 'TCRT5000', 'Tact-Switch', 'Taper-Potentiometer', 'Trimmer-Potentiometer', 'Water-Sensor', 'Zener-Diode']

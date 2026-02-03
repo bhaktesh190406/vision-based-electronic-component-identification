@@ -1,0 +1,34 @@
+# Virtual environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (DO NOT UPLOAD)
+dataset/
+datasets/
+train/
+valid/
+test/
+images/
+labels/
+
+# YOLO training runs
+runs/
+
+# Cache files
+*.cache
+
+# Model checkpoints (keep only final weight manually)
+*.pt
+!weights/best.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
