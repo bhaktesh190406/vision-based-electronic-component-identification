@@ -51,6 +51,29 @@ Data augmentation techniques such as rotation and brightness variation were appl
 
 ## 📊 Results & Performance
 
+The model was trained to detect 61 different electronic component classes using a custom annotated dataset.
+
+### 🔍 Detection Performance
+- mAP@0.5: ~0.82  
+- Precision: ~0.79  
+- Recall: ~0.76  
+
+### ⚡ Real-Time Inference
+- Input resolution: 640 × 640  
+- Average FPS: ~25–30 FPS  
+- Hardware: NVIDIA RTX 4060 Laptop GPU  
+
+> Note: Performance may vary depending on lighting conditions and camera quality.
+
+> 1] ![IMG20240228142237_jpg rf c5f84e4a56f91bb1ee566764f4b8a464](https://github.com/user-attachments/assets/353afc3b-4d29-44d0-9ce9-5f18674a7eaa)
+> 2] ![IMG_20240220_135309_jpg rf 26909fdb6ea32c9f34b348133b8c4fb8](https://github.com/user-attachments/assets/f719cc39-2eb5-4432-a982-1d94bfb6f40c)
+>  3] ![IMG_20240228_133534_jpg rf 59fe0178c9d3b3bc1a5e4505e3d71997](https://github.com/user-attachments/assets/d1d2aa2a-3565-478f-813e-955e03942086)
+
+
+
+
+
+
 The trained model demonstrates accurate detection and classification of electronic components in real-world images.
 
 - Successfully detects multiple components in a single frame
