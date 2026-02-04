@@ -60,6 +60,13 @@ The trained model demonstrates accurate detection and classification of electron
 
 Sample detection outputs, confusion matrix, precision–recall curves, and other evaluation results are included in the `docs/results/` directory.
 
+## Video Demo of Project
+
+
+
+https://github.com/user-attachments/assets/da9817c1-d6bc-4885-ae37-ffcf1cf6665d
+
+
 
 ## 🚀 How to Run the Project
 ### 1. Clone the repository
