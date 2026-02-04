@@ -50,13 +50,19 @@ Data augmentation techniques such as rotation and brightness variation were appl
 
 
 ## 📊 Results & Performance
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/b0cde2f0-dbe8-4232-acf7-672fa3c44162" />
+
+![labels](https://github.com/user-attachments/assets/f6929485-dab4-4942-9869-5751f0977f64)
+
+Visualization of dataset characteristics (class distribution, bounding box spread, object location and size) along with training and validation loss curves, precision, recall, and mAP metrics demonstrating stable training and strong detection performance of the model.
 
 The model was trained to detect 61 different electronic component classes using a custom annotated dataset.
 
 ### 🔍 Detection Performance
-- mAP@0.5: ~0.82  
-- Precision: ~0.79  
-- Recall: ~0.76  
+- mAP@0.5: ~0.94%  
+- Precision: ~0.95%  
+- Recall: ~0.93%
+    
 
 ### ⚡ Real-Time Inference
 - Input resolution: 640 × 640  
